@@ -1,1 +1,2 @@
 Remote change 1
+Local change 2
